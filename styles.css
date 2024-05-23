@@ -32,14 +32,20 @@ main {
     border: 1px solid #ddd;
     padding: 1rem;
     text-align: center;
-}
+    width: 60px; /* Ancho fijo */
+    height: 80px; /* Alto fijo */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
   
 .product img {
     max-width: 100%;
+    max-height: 50px
     height: auto;
 
 .product h2 {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin: 0.5rem 0;
 }
 
