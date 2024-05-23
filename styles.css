@@ -76,6 +76,4 @@ img {
 .titulo img {
     margin-right: 10px; /* Añade espacio entre el logo y el texto */
 }
-a:focus {
-    outline: none; /* Oculta el estilo de foco del navegador en los enlaces */
-}
+
