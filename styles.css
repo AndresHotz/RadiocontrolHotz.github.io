@@ -36,7 +36,7 @@ main {
     height: 30px; /* Alto específico */
 
 .product img {
-    max-width: 100%;
+    max-width: 10%;
     max-height: 10px; /* Alto máximo para la imagen */
     width: 10;
     height: 10;
